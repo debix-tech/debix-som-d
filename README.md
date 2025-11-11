@@ -43,7 +43,7 @@ DEBIX SOM D is a power-efficient System-on-Module product based on the NXP i.MX 
 | **Power Supply** |             |
 | Power Input      | DC 3.5V~5V/1A |
 | **Operating Temperature** | |
-| Temp. Range      | -40°C~85°C for default, -20°C~70°C optional |
+| Temp. Range      | -40°C\~85°C for default, -20°C\~70°C optional |
 | **Mechanical & Environmental** | |
 | Connector        | 3 x 2*40pin/0.5mmpitchboard-to-boardconnector (PN: BB51024A-R80-40-32), matching socketsofvariousheights |
 | Dimension        | 60mm(L) x 40mm(W) x 9.0mm(H) (±0.5mm) |
@@ -53,7 +53,7 @@ DEBIX SOM D is a power-efficient System-on-Module product based on the NXP i.MX 
 <!--
 ## Product Compliance and Safety
 CE | FCC | UKCA | RoHS | C-Tick | PSE  
-*For more information see [the Certificates in the DEBIX Knowledge Center](https://debix.io/Document/certificates.html)*  
+*For more information, please visit [our official website](https://debix.io/Document/certificates.html)*  
 
 
 ## Ordering Codes
