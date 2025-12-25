@@ -46,7 +46,7 @@ DEBIX SOM D is a power-efficient System-on-Module product based on the NXP i.MX 
 | Temp. Range      | -40°C\~85°C for default, -20°C\~70°C optional |
 | **Mechanical & Environmental** | |
 | Connector        | 3 x 2*40pin/0.5mmpitchboard-to-boardconnector (PN: BB51024A-R80-40-32), matching socketsofvariousheights |
-| Dimension        | 60mm(L) x 40mm(W) x 9.0mm(H) (±0.5mm) |
+| Dimension        | 70mm(L) x 50mm(W) (±0.5mm) |
 | Gross Weight     | 17g (±0.5g) |
 | Net Weight       | 29g (±0.5g) |
 
